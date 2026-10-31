@@ -1,0 +1,6 @@
+streamlit>=1.36
+opencv-contrib-python>=4.8
+numpy>=1.24
+Pillow>=10.0
+pandas>=2.0
+ultralytics>=8.2
